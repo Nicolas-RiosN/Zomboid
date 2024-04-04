@@ -10173,8 +10173,8 @@ items = {
 		modID = "UndeadSuvivor",
 		existsAsVanilla = false,
 		isModded = true,
-		obsolete = false,
-		removed = false,
+		obsolete = true,
+		removed = true,
 	},
 	{
 		registryID = 1128,
